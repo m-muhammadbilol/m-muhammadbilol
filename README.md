@@ -32,30 +32,6 @@
   <img src="https://skillicons.dev/icons?i=react,js,tailwind,nodejs,mongodb,postgres,git,vscode" />
 </p>
 
-🧠 Backend:
-- 🟩 Node.js
-- 🚀 Express
-
-🗄 Database:
-- 🍃 MongoDB
-- 🐘 PostgreSQL
-
-🧰 Tools:
-- 🧑‍💻 Git & GitHub
-- 🖥 VS Code
-- ☁️ Vercel
-
----
-
-## 📌 Loyihalar
-
-🚀 **Kotiba AI**  
-🧠 Voice-first AI assistant  
-
-🌐 **Portfolio Website**  
-🎨 Zamonaviy portfolio  
----
-
 ## 📊 GitHub Statistikam
 
 <p align="center">
