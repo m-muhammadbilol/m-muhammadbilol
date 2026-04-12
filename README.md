@@ -10,7 +10,12 @@
 <p align="center">
   🚀 React • Vite • Tailwind • Node.js  
 </p>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;React+%7C+Tailwind+%7C+Node.js;Building+Modern+Web+Apps" />
+</p>
+<p align="center">
+  💻 @m-muhammadbilol
+</p>
 ---
 
 ## 🧠 Men haqimda
@@ -21,13 +26,11 @@
 
 ---
 
-## 🛠 Texnologiyalarim
+## 🛠 Texnologiyalar
 
-🚀 Frontend:
-- ⚛️ React
-- 🟨 JavaScript
-- 🎨 Tailwind CSS
-- ⚡ Vite
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,tailwind,nodejs,mongodb,postgres,git,vscode" />
+</p>
 
 🧠 Backend:
 - 🟩 Node.js
@@ -44,16 +47,13 @@
 
 ---
 
-## 📌 Loyihalarim
+## 📌 Loyihalar
 
 🚀 **Kotiba AI**  
-🧠 Ovoz bilan ishlaydigan AI assistant  
+🧠 Voice-first AI assistant  
 
 🌐 **Portfolio Website**  
-🎨 Shaxsiy portfolio sayti  
-
-
-
+🎨 Zamonaviy portfolio  
 ---
 
 ## 📊 GitHub Statistikam
@@ -71,7 +71,6 @@
 ## 📫 Bog‘lanish
 
 📱 Telegram: https://t.me/m_mamasidiqov 
-📸 Instagram: NOT
 💻 GitHub: https://github.com/m-muhammadbilol  
 
 ---
