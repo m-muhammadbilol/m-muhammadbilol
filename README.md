@@ -52,19 +52,6 @@
 
 ---
 
-## 📌 Loyihalar
-
-🚀 **Kotiba AI**  
-🧠 Voice-first AI assistant  
-
-🌐 **Portfolio Website**  
-🎨 Zamonaviy portfolio  
-
-🔗 **URL Shortener**  
-⚡ Tez va oddiy link qisqartiruvchi  
-
----
-
 ## 📊 GitHub Statistikam
 
 <p align="center">
