@@ -1,16 +1,86 @@
-## Hi there 👋
+<h1 align="center">👋 Assalomu alaykum, men Muhammadbilol</h1>
 
-<!--
-**m-muhammadbilol/m-muhammadbilol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Frontend Developer | ⚡ Zamonaviy Web App Builder  
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  🚀 React • Vite • Tailwind • Node.js  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Men haqimda
+
+✨ Men O'zbekistondan frontend dasturchiman  
+🎯 Maqsadim — zamonaviy, tez va chiroyli web ilovalar yaratish  
+🔥 Hozirda fullstack yo‘nalishda rivojlanmoqdaman  
+
+---
+
+## 🛠 Texnologiyalarim
+
+🚀 Frontend:
+- ⚛️ React
+- 🟨 JavaScript
+- 🎨 Tailwind CSS
+- ⚡ Vite
+
+🧠 Backend:
+- 🟩 Node.js
+- 🚀 Express
+
+🗄 Database:
+- 🍃 MongoDB
+- 🐘 PostgreSQL
+
+🧰 Tools:
+- 🧑‍💻 Git & GitHub
+- 🖥 VS Code
+- ☁️ Vercel
+
+---
+
+## 📌 Loyihalarim
+
+🚀 **Kotiba AI**  
+🧠 Ovoz bilan ishlaydigan AI assistant  
+
+🌐 **Portfolio Website**  
+🎨 Shaxsiy portfolio sayti  
+
+
+
+---
+
+## 📊 GitHub Statistikam
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=m-muhammadbilol&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-muhammadbilol&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Bog‘lanish
+
+📱 Telegram: https://t.me/m_mamasidiqov 
+📸 Instagram: NOT
+💻 GitHub: https://github.com/m-muhammadbilol  
+
+---
+
+## 🎯 2026 Maqsadlarim
+
+🚀 Kuchli fullstack developer bo‘lish  
+🔥 Real projectlar qilish  
+📈 GitHub faoliyatini oshirish  
+
+---
+
+<p align="center">
+  ⚡ “Har kuni kichik progress = katta natija” ⚡
+</p>
