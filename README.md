@@ -1,22 +1,20 @@
  
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=2" width="100%" />
+<!-- ANIMATED HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:242424,100:444444&height=230&section=header&text=MUHAMMADBILOL&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=FRONTEND%20DEVELOPER%20%7C%2014%2B%20MONTHS%20EXPERIENCE&descSize=13&descAlignY=58&animation=fadeIn" width="100%" />
 
-# MUHAMMADBILOL
-
-**FRONTEND DEVELOPER**
-
-Building digital experiences through clean code and thoughtful design.
+<!-- LIVE TYPING EFFECT -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Experiences;React+%7C+JavaScript+%7C+Tailwind+CSS;Clean+Code.+Minimal+Design.;Always+Learning.+Always+Building." />
 
 <br/>
 
 [![Telegram](https://img.shields.io/badge/TELEGRAM-171717?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/m_mamasidiqov)
 [![GitHub](https://img.shields.io/badge/GITHUB-171717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-muhammadbilol)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=333333&height=1" width="100%" />
-
 </div>
+
+---
 
 ## 01 / ABOUT ME
 
@@ -66,13 +64,9 @@ I completed intensive Frontend Development training at **Najot Ta'lim** and cont
 
 <div align="center">
 
-<a href="https://github.com/m-muhammadbilol">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=m-muhammadbilol&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=A1A1AA&icon_color=FFFFFF&rank_icon=github" />
-</a>
 
-<a href="https://github.com/m-muhammadbilol">
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=m-muhammadbilol&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=A1A1AA&dates=71717A" />
-</a>
 
 </div>
 
@@ -93,18 +87,15 @@ I completed intensive Frontend Development training at **Najot Ta'lim** and cont
 
 **Interested in working together or discussing a project?**
 
-<br/>
-
 [![Telegram](https://img.shields.io/badge/LET'S_TALK-FFFFFF?style=for-the-badge&logo=telegram&logoColor=000000)](https://t.me/m_mamasidiqov)
-
-<br/>
 
 [@m_mamasidiqov](https://t.me/m_mamasidiqov)
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=333333&height=1" width="100%" />
+---
 
 <sub>DESIGNED WITH SIMPLICITY. BUILT WITH PURPOSE.</sub>
+
+<!-- ANIMATED FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:444444,50:242424,100:000000&height=120&section=footer&animation=fadeIn" width="100%" />
 
 </div>
