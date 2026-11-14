@@ -1,97 +1,110 @@
  
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=2" width="100%" />
+
 # MUHAMMADBILOL
 
-### Frontend Developer
+**FRONTEND DEVELOPER**
 
-Building modern, responsive, and user-focused web experiences.
+Building digital experiences through clean code and thoughtful design.
 
-[![Telegram](https://img.shields.io/badge/Telegram-000000?style=flat-square&logo=telegram&logoColor=white)](https://t.me/m_mamasidiqov)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/m-muhammadbilol)
+<br/>
+
+[![Telegram](https://img.shields.io/badge/TELEGRAM-171717?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/m_mamasidiqov)
+[![GitHub](https://img.shields.io/badge/GITHUB-171717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-muhammadbilol)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=333333&height=1" width="100%" />
 
 </div>
 
----
+## 01 / ABOUT ME
 
-## ABOUT
+I'm a Frontend Developer from Uzbekistan with **14+ months of experience** in frontend development.
 
-I'm a Frontend Developer from Uzbekistan with a passion for building clean, functional, and modern web applications.
+I specialize in building modern, responsive, and user-friendly web applications with a focus on clean architecture, intuitive interfaces, and performance.
 
-I completed over 8 months of intensive Frontend Development training at **Najot Ta'lim**.
-
-Currently, I'm improving my skills in Full-Stack Development and working on projects that turn ideas into practical digital experiences.
+I completed intensive Frontend Development training at **Najot Ta'lim** and continue expanding my knowledge towards Full-Stack Development.
 
 ---
 
-## TECH STACK
+## 02 / TECHNOLOGIES
 
-**Frontend**
+**FRONTEND**
 
-![React](https://img.shields.io/badge/React-181818?style=flat-square&logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-181818?style=flat-square&logo=javascript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-181818?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-181818?style=flat-square&logo=vite&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite&theme=dark" />
+</p>
 
-**Backend & Database**
+**BACKEND & DATABASE**
 
-![Node.js](https://img.shields.io/badge/Node.js-181818?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-181818?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-181818?style=flat-square&logo=postgresql&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgres&theme=dark" />
+</p>
 
-**Tools**
+**DEVELOPMENT TOOLS**
 
-![Git](https://img.shields.io/badge/Git-181818?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-181818?style=flat-square&logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181818?style=flat-square&logo=github&logoColor=white)
-
----
-
-## WHAT I DO
-
-- Build responsive and modern user interfaces.
-- Develop web applications using React.
-- Create clean and reusable components.
-- Focus on performance and user experience.
-- Continuously explore modern web technologies.
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+</p>
 
 ---
 
-## GITHUB OVERVIEW
+## 03 / WHAT I DO
+
+| Area | Focus |
+|:---|:---|
+| Frontend Development | Modern web applications |
+| UI Development | Clean and responsive interfaces |
+| React Development | Reusable components and structure |
+| Performance | Fast and optimized experiences |
+| Full-Stack Learning | Expanding backend capabilities |
+
+---
+
+## 04 / GITHUB STATISTICS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=m-muhammadbilol&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=999999&icon_color=FFFFFF" />
+<a href="https://github.com/m-muhammadbilol">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=m-muhammadbilol&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=A1A1AA&icon_color=FFFFFF&rank_icon=github" />
+</a>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=m-muhammadbilol&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=999999&dates=777777" />
+<a href="https://github.com/m-muhammadbilol">
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=m-muhammadbilol&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=A1A1AA&dates=71717A" />
+</a>
 
 </div>
 
 ---
 
-## CURRENT FOCUS
+## 05 / CURRENT FOCUS
 
 - Advancing my Full-Stack Development skills.
-- Building real-world projects.
-- Improving code quality and architecture.
-- Exploring new technologies and development practices.
+- Building practical, real-world applications.
+- Improving code quality and project architecture.
+- Exploring modern development technologies.
 
 ---
 
-## CONNECT
+## 06 / LET'S CONNECT
 
 <div align="center">
 
-**Have an idea or want to collaborate?**
+**Interested in working together or discussing a project?**
 
-[Telegram](https://t.me/m_mamasidiqov) · [GitHub](https://github.com/m-muhammadbilol)
+<br/>
 
-</div>
+[![Telegram](https://img.shields.io/badge/LET'S_TALK-FFFFFF?style=for-the-badge&logo=telegram&logoColor=000000)](https://t.me/m_mamasidiqov)
 
----
+<br/>
 
-<div align="center">
+[@m_mamasidiqov](https://t.me/m_mamasidiqov)
 
-*Building. Learning. Improving.*
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=333333&height=1" width="100%" />
+
+<sub>DESIGNED WITH SIMPLICITY. BUILT WITH PURPOSE.</sub>
 
 </div>
